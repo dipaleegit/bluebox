@@ -14,14 +14,14 @@ Our Application has mainly 3 layers.
 
 In order to run the API, clone the repository and follow below steps.
 
-### 1. Application Configuration related changes (appsettings.json)
+1. Application Configuration related changes (appsettings.json)
 - **ConnectionStrings**: Set below field in order to update your Connection String for the database.
 ```javascript
     "ConnectionStrings": {
         "ApplicationConnection": "YOUR CONNECTION STRING"
     }
 ```
-### 2. Run below command in package manager console. (Please make sure to select "Data" as project in the console.)
+2. Run below command in package manager console. (Please make sure to select "Data" as project in the console.)
 ```bash
     Update-Database
 ``` 
@@ -39,11 +39,11 @@ export const environment = {
 ``` 
 
 In order to run the project follow the below steps:
-### 1. Intall Packages. Run below command to intall the packages.
+1. Intall Packages. Run below command to intall the packages.
 ```bash
     npm install
 ``` 
-### 2. Once all the packages are installed, run the site using below command. 
+2. Once all the packages are installed, run the site using below command. 
 ```bash
     ng serve
 ``` 
