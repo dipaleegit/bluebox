@@ -1,0 +1,20 @@
+.card-block{
+    background: transparent;
+    border: none;
+    padding: 30px;
+}
+
+.card-info{
+    padding: 5px;    
+    background-color: #000000ab;
+    height: 200px;
+}
+.card-title {
+    color: #fff;
+    font-size: 2rem;
+}
+.card-text{
+    color: #bebebe;
+    text-align: justify;
+}
+

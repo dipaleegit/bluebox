@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(https://images.hdqwalls.com/wallpapers/2020-iron-man-4k-infinity-gauntlet-6u.jpg);
+    box-sizing: border-box;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+}
